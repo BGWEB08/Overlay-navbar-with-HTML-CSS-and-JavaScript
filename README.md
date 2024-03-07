@@ -10,4 +10,4 @@ This project includes an Overlay Navbar that provides users with easy navigation
 
 ## Demo
 
-![Overlay Navbar Image]([demo.png](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Overlay%20Navbar/overlaynavbar-img.png?raw=true))
+![Overlay Navbar Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Overlay%20Navbar/overlaynavbar-img.png?raw=true)
